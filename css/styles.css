@@ -1,0 +1,8 @@
+#Banner{
+  width: 100%;
+  height: 400px;
+  background: url('../images/banner/banner1.jpg') no-repeat;
+}
+.fa-envelope-o{
+  color:rgb(224, 18, 105);
+}
